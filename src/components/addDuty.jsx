@@ -604,7 +604,7 @@ function AddDutyC() {
                           >
                             <i class="fas fa-save"></i> Lưu
                           </button>
-                          <Link to="/home" className="btn btn-danger btn-sm">
+                          <Link to="/duty" className="btn btn-danger btn-sm">
                             <i className="fas fa-window-close"></i> Hủy
                           </Link>
                         </div>
